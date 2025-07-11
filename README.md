@@ -21,11 +21,11 @@ Algorithm: Artificial Neural Network (ANN)
 
 Architecture:
 
-Input Layer: Accepts normalized patient features.
+  Input Layer: Accepts normalized patient features.
 
-Hidden Layers: Dense layers with ReLU activation.
+  Hidden Layers: Dense layers with ReLU activation.
 
-Output Layer: Binary classification with sigmoid activation (CKD or not).
+  Output Layer: Binary classification with sigmoid activation (CKD or not).
 
 Loss Function: Binary Crossentropy
 
