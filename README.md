@@ -1,7 +1,7 @@
 # Prediction-of-Chronic-Kidney-Disease-with-ANN
 Machine Learning Project
 
-# Chronic Kidney Disease (CKD) Prediction using Artificial Neural Networks
+# Chronic Kidney Disease (CKD) Prediction using Artificial Neural Network
 
 This project presents a Machine Learning solution for early prediction of Chronic Kidney Disease (CKD) using an Artificial Neural Network (ANN). CKD is a serious condition that affects kidney function over time. Early detection can significantly improve treatment outcomes and patient health.
 
